@@ -1,4 +1,4 @@
 # finaldemo
 this is my first repo
 <br>
-auther - Ruturaj Desai
+auther - Ruturaj Desai(rd)
